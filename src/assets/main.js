@@ -48,5 +48,5 @@ async function fetchData(urlAPI, options){
         content.innerHTML=view;
     }catch (error) {
         console.log(error)
-    }
+    } 
 })(); 
