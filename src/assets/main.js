@@ -49,4 +49,4 @@ async function fetchData(urlAPI, options){
     }catch (error) {
         console.log(error)
     }
-})();
+})(); 
